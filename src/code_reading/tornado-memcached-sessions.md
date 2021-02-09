@@ -1,4 +1,4 @@
-## 【源码剖析】tornado-memcached-sessions —— Tornado session 支持的实现（一）
+## 【源码剖析】tornado-memcached-sessions —— Tornado session 支持的实现
 
 tornado 里面没有 session？不，当然有~ 只有官方没有，不存在 github 没有
 
