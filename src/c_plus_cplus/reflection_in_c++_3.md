@@ -84,7 +84,8 @@ class ClassRegisterHelper {
 ```
 
 下面是使用的示例：
-```
+
+```C++
 #include <iostream>
 #include <memory>
 #include <cstring>
