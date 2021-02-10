@@ -11,6 +11,13 @@
 
 [tornado-memcached-sessions —— Tornado session 支持的实现](https://github.com/AngryHacker/articles/blob/master/src/code_reading/tornado-memcached-sessions.md)
 
+## 开源组件
+[google gflags 库完全使用](https://github.com/AngryHacker/articles/blob/master/src/open_source_components/google_gflags.md)
+
+[google glog 简单使用小结](https://github.com/AngryHacker/articles/blob/master/src/open_source_components/google_glog.md)
+
+[google gtest 快速入门](https://github.com/AngryHacker/articles/blob/master/src/open_source_components/google_gtest.md)
+
 ## C++
 [Linux C++ 中文处理](https://github.com/AngryHacker/articles/blob/master/src/c_plus_cplus/linux_chinese_in_c_plus_plus.md)
 
