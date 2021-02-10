@@ -397,3 +397,4 @@ int main(int argc,char* argv[])
 
 ### 效果
 贴一张效果图：
+![linux ls](https://raw.githubusercontent.com/AngryHacker/articles/master/img/linux-ls.png)
