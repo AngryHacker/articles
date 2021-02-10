@@ -11,3 +11,7 @@
 
 [tornado-memcached-sessions —— Tornado session 支持的实现](https://github.com/AngryHacker/articles/blob/master/src/code_reading/tornado-memcached-sessions.md)
 
+
+## Linux
+[ls 命令的实现](https://github.com/AngryHacker/articles/blob/master/src/linux/ls_implementation.md)
+
