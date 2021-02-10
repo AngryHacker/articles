@@ -15,3 +15,4 @@
 ## Linux
 [ls 命令的实现](https://github.com/AngryHacker/articles/blob/master/src/linux/ls_implementation.md)
 
+[linux cpu 信息分析](https://github.com/AngryHacker/articles/blob/master/src/linux/linux_cpu_info.md)

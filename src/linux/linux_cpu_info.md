@@ -6,7 +6,7 @@ cat /proc/cpuinfo
 ```
 
 在我的电脑下得到如下结果：
-
+![linux cpu info](https://raw.githubusercontent.com/AngryHacker/articles/master/img/linux_cpu_info.png)
 
 
 其中包含了很多信息，比较重要的字段是：
