@@ -7,7 +7,7 @@
 
 [Webbench —— 简洁而优美的压力测试工具](https://github.com/AngryHacker/articles/blob/master/src/code_reading/webbench.md)
 
-[MemoryPool](https://github.com/AngryHacker/articles/blob/master/src/code_reading/memorypool.md)
+[MemoryPool —— 简单高效的内存池 allocator 实现](https://github.com/AngryHacker/articles/blob/master/src/code_reading/memorypool.md)
 
 [tornado-memcached-sessions —— Tornado session 支持的实现](https://github.com/AngryHacker/articles/blob/master/src/code_reading/tornado-memcached-sessions.md)
 
