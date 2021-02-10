@@ -3,7 +3,7 @@
 Webbench 是一个古老而著名的网站压力测试工具，简单而实用。如果你不清楚你的网站能承受多大的压力，或者你想分析对比两个网站的性能，webbench 再好用不过了。
 
 ### 项目地址
-Gitbub 地址：点我
+Gitbub 地址：[点我](https://github.com/AngryHacker/code-with-comments/tree/master/webbench)
 
 ### 安装
 
@@ -91,7 +91,7 @@ Requests: 586 susceed, 0 failed.
 6. 父进程读取管道数据，汇总子进程信息，收到所有子进程消息后，输出汇总信息，结束。
 
 #### 流程图
-![webbench](https://raw.githubusercontent.com/AngryHacker/articles/master/img/20151224173731480.png)                                              
+![webbench](https://raw.githubusercontent.com/AngryHacker/articles/master/img/webbench.png)                                              
 
 #### 注释源码
 
